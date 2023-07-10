@@ -1,4 +1,4 @@
-def ConstBoard(board):
+def ConstBoard(board): 
   print("Current State of the Board: \n\n")
   for i in range(0, 9):
     if((i>0) and (i%3==0)):
