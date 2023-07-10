@@ -1,2 +1,2 @@
 # Tic-tac-toe
-Using python and MinMax algo
+Using python and MiniMax algo
